@@ -1,0 +1,7 @@
+mkdir human-attribute
+   cd human-attribute
+
+streamlit>=1.32.0
+pillow>=10.0.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
